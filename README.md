@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dipu Dangol</h1>
-<h3 align="center">A passionate Full Stack Developer from Nepal 🇳🇵</h3>
+<h3 align="center">Full-Stack Developer and DevOps enthusiast from Nepal 🇳🇵</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dipudangol2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
-
-🌱 Currently learning **React** and building exciting things with **MERN Stack**  
-🚀 Working on a **Real-time Chat Application**  
-💬 Ask me about **JavaScript, Docker and AWS**  
+ 
 📫 Reach me at: **dipudangol2@gmail.com**  
 ⚡ Fun fact: I love solving problems and learning new tech every day!
 
@@ -120,4 +117,5 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+
 
