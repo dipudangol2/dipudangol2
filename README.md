@@ -87,22 +87,21 @@
 ---
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+&duration=4000&pause=1000&color=6708F7&width=435&lines=%F0%9F%93%88+Stats+and+Streaks" alt="Typing SVG" /></a>
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipudangol2&theme=onedark&show_icons=true&hide_border=true&layout=compact" alt="dipudangol2's toplang stats"/>
 </p>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=dipudangol2&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="dipudangol2's github stats" />
     
-  </p>
+  </p> -->
 
 
   <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipudangol2&theme=onedark&hide_border=true" alt="dipudangol2's streak stats"/>
   </p>
 
----
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+&duration=4000&pause=1000&color=6708F7&width=435&lines=%F0%9F%8F%86+Trophies" alt="Typing SVG" /></a>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+&duration=4000&pause=1000&color=6708F7&width=435&lines=%F0%9F%8F%86+Trophies" alt="Typing SVG" /></a>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=dipudangol2&theme=onestar&column=7" alt="GitHub Trophies" />
@@ -116,6 +115,7 @@
   <a href="https://linkedin.com/in/dipu-dangol-37655b264" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-</p>
+</p> -->
+
 
 
